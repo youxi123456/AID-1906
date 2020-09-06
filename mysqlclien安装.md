@@ -2,6 +2,10 @@
 
 
 
+
+
+需要使用MySQLclient，当前django不支持pymysql
+
 # mysqlclien错误解决
 
 ## 问题描述:
