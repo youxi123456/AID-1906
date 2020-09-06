@@ -2,7 +2,7 @@
 
 
 
-
+git 终于学完了，开心
 
 需要使用MySQLclient，当前django不支持pymysql
 
